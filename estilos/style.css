@@ -12,7 +12,7 @@ html, body {
     background-color: black;
 }
 body {
-    background: url(../pacote-d013/imagens/fundo-madeira.jpg) no-repeat top center;
+    background: linear-gradient(to right, #022859, #023859, #024873);
     background-size: cover;
     background-attachment: fixed;
 }
