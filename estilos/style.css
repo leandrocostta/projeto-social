@@ -30,7 +30,7 @@ section#telefone {
     min-height: 627px;
     min-width: 311px;
     background:url(../pacote-d013/imagens/frame-iphone.png) no-repeat ;
-    margin: auto;
+
     
 }
 
@@ -42,9 +42,9 @@ iframe#tela {
     height:471px;
 }
 section#redes-sociais {
-    text-align: right;
-    padding-right: 0px;
-    padding-top: 180px;
+    text-align: center;
+    padding-bottom: 0px;
+    padding-top: 0px;
 }
 
 section#redes-sociais img {
